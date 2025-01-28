@@ -1,0 +1,6 @@
+Hola:Hello
+Adios:Bye
+Cargador:Charger
+Abrir:Open
+Silla:Chair
+Azul:Blue
